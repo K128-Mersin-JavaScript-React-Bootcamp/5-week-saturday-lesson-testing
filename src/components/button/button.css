@@ -1,0 +1,16 @@
+.my-button {
+  border: 0;
+  background-color: var(--PETER_RIVER);
+  padding: 8px 12px;
+  color: #fff;
+  font-size: 12px;
+  border-radius: 3px;
+}
+
+.my-button:hover {
+  background-color: var(--BELIZE_HOLE);
+}
+
+.my-button:active {
+  background-color: var(--WET_ASPHALT);
+}

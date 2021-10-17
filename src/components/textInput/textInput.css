@@ -1,0 +1,15 @@
+.my-input {
+  border: 2px solid var(--SILVER);
+  padding: 8px 12px;
+  font-size: 12px;
+  border-radius: 3px;
+  outline: none;
+}
+
+.my-input:active {
+  border: 2px solid var(--PETER_RIVER);
+}
+
+.my-input:focus {
+  border: 2px solid var(--PETER_RIVER);
+}

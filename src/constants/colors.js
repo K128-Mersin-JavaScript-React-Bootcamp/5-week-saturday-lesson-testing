@@ -1,0 +1,23 @@
+const colors = {
+  TURQUOISE: { hex: "#1ABC9C" },
+  GREEN_SEA: { hex: "#16A085" },
+  EMERALD: { hex: "#2ECC71" },
+  NEPHRITIS: { hex: "#27AE60" },
+  PETER_RIVER: { hex: "#3498DB" },
+  BELIZE_HOLE: { hex: "#2980B9" },
+  AMETHYST: { hex: "#9B59B6" },
+  WISTERIA: { hex: "#8E44AD" },
+  WET_ASPHALT: { hex: "#34495E" },
+  MIDNIGHT_BLUE: { hex: "#2C3E50" },
+  SUN_FLOWER: { hex: "#F1C40F" },
+  ORANGE: { hex: "#F39C12" },
+  CARROT: { hex: "#E67E22" },
+  PUMPKIN: { hex: "#D35400" },
+  ALIZARIN: { hex: "#E74C3C" },
+  POMEGRANATE: { hex: "#C0392B" },
+  CLOUDS: { hex: "#ECF0F1" },
+  SILVER: { hex: "#BDC3C7" },
+  CONCRETE: { hex: "#95A5A6" },
+  ASBESTOS: { hex: "#7F8C8D" },
+};
+export default colors;
